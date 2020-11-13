@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppProductos</string>
+    <string name="title_activity_main">Productos</string>
+    <string name="title_activity_producto">ProductoActivity</string>
+</resources>
